@@ -6,7 +6,7 @@ body{
 }
 
 .logo{
-  width:200px;
+  width:150px;
 float:left;
 }
 .fright{
@@ -30,6 +30,9 @@ header{
   padding:40px;
   height:50px;
 }
+footer{
+  padding:20px;
+}
 .fo{
       width:500px;
   margin:0 auto;
@@ -50,8 +53,10 @@ header{
 .fo input{
   height:40px;
 }
-.i{
+.footer_pro{
 float:right;
+width:180px;
+
 }
 .b{
 
@@ -67,4 +72,14 @@ padding-left:5px;
 .l_div{
   padding-left: 0;
   padding-right:10px;
+}
+.fb-image{
+  width:40px;
+}
+.insta-image{
+  width:40px;
+
+}
+.twitter-image{
+  width:40px;
 }
